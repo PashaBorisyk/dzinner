@@ -6,22 +6,22 @@
 	url = https://dev.azure.com/dzinnersoft/dzinner/_git/account-ui
 [submodule "data"]
 	path = data
-	url = ../data
+	url = https://dev.azure.com/dzinnersoft/dzinner/_git/data
 [submodule "bot"]
 	path = bot
 	url = https://dev.azure.com/dzinnersoft/dzinner/_git/bot
 [submodule "solaris"]
 	path = solaris
-	url = ../solaris
+	url = https://dev.azure.com/dzinnersoft/dzinner/_git/solaris
 [submodule "report"]
 	path = report
-	url = ../report
+	url = https://dev.azure.com/dzinnersoft/dzinner/_git/report
 [submodule "ai"]
 	path = ai
 	url = https://dev.azure.com/dzinnersoft/dzinner/_git/ai
 [submodule "co_bot"]
 	path = co_bot
-	url = ../co_bot
+	url = https://dev.azure.com/dzinnersoft/dzinner/_git/co_bot
 [submodule "web-client"]
 	path = web-client
-	url = ../web_client
+	url = https://dev.azure.com/dzinnersoft/dzinner/_git/web-client
