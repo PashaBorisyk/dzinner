@@ -25,3 +25,6 @@
 [submodule "web-client"]
 	path = web-client
 	url = https://dev.azure.com/dzinnersoft/dzinner/_git/web-client
+[submodule "account-fe"]
+	path = account-fe
+	url = https://dev.azure.com/dzinnersoft/dzinner/_git/account-fe
