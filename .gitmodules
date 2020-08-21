@@ -1,15 +1,15 @@
 [submodule "account"]
 	path = account
-	url = ../account
+	url = https://dev.azure.com/dzinnersoft/dzinner/_git/account
 [submodule "account-ui"]
 	path = account-ui
-	url = .../account-ui
+	url = https://dev.azure.com/dzinnersoft/dzinner/_git/account-ui
 [submodule "data"]
 	path = data
 	url = ../data
 [submodule "bot"]
 	path = bot
-	url = ../bot
+	url = https://dev.azure.com/dzinnersoft/dzinner/_git/bot
 [submodule "solaris"]
 	path = solaris
 	url = ../solaris
@@ -18,7 +18,7 @@
 	url = ../report
 [submodule "ai"]
 	path = ai
-	url = ../ai
+	url = https://dev.azure.com/dzinnersoft/dzinner/_git/ai
 [submodule "co_bot"]
 	path = co_bot
 	url = ../co_bot
