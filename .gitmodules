@@ -1,27 +1,27 @@
 [submodule "account"]
 	path = account
-	url = https://github.com/dzinnersoft/account.git
+	url = ../account
 [submodule "account-ui"]
 	path = account-ui
-	url = https://github.com/dzinnersoft/account-ui.git
+	url = .../account-ui
 [submodule "data"]
 	path = data
-	url = https://github.com/dzinnersoft/data.git
+	url = ../data
 [submodule "bot"]
 	path = bot
-	url = https://github.com/dzinnersoft/bot.git
+	url = ../bot
 [submodule "solaris"]
 	path = solaris
-	url = https://github.com/dzinnersoft/solaris.git
+	url = ../solaris
 [submodule "report"]
 	path = report
-	url = https://github.com/dzinnersoft/report.git
+	url = ../report
 [submodule "ai"]
 	path = ai
-	url = https://github.com/dzinnersoft/ai.git
+	url = ../ai
 [submodule "co_bot"]
 	path = co_bot
-	url = https://github.com/dzinnersoft/co_bot.git
+	url = ../co_bot
 [submodule "web-client"]
 	path = web-client
-	url = https://github.com/dzinnersoft/web_client.git
+	url = ../web_client
