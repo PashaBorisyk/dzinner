@@ -28,3 +28,6 @@
 [submodule "account-fe"]
 	path = account-fe
 	url = https://dev.azure.com/dzinnersoft/dzinner/_git/account-fe
+[submodule "account-logistics"]
+	path = account-logistics
+	url = https://dev.azure.com/dzinnersoft/dzinner/_git/account-logistics
