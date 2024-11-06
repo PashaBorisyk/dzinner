@@ -1,36 +1,36 @@
 [submodule "account"]
 	path = account
-	url = https://dev.azure.com/dzinnersoft/dzinner/_git/account
+	url = https://github.com/PashaBorisyk/account
 [submodule "account-ui"]
 	path = account-ui
-	url = https://dev.azure.com/dzinnersoft/dzinner/_git/account-ui
+	url = https://github.com/PashaBorisyk/account-ui
 [submodule "data"]
 	path = data
-	url = https://dev.azure.com/dzinnersoft/dzinner/_git/data
+	url = https://github.com/PashaBorisyk/data
 [submodule "bot"]
 	path = bot
-	url = https://dev.azure.com/dzinnersoft/dzinner/_git/bot
+	url = https://github.com/PashaBorisyk/bot
 [submodule "solaris"]
 	path = solaris
-	url = https://dev.azure.com/dzinnersoft/dzinner/_git/solaris
+	url = https://github.com/PashaBorisyk/solaris
 [submodule "report"]
 	path = report
-	url = https://dev.azure.com/dzinnersoft/dzinner/_git/report
+	url = https://github.com/PashaBorisyk/report
 [submodule "ai"]
 	path = ai
-	url = https://dev.azure.com/dzinnersoft/dzinner/_git/ai
+	url = https://github.com/PashaBorisyk/ai
 [submodule "co_bot"]
 	path = co_bot
-	url = https://dev.azure.com/dzinnersoft/dzinner/_git/co_bot
+	url = https://github.com/PashaBorisyk/co_bot
 [submodule "web-client"]
 	path = web-client
-	url = https://dev.azure.com/dzinnersoft/dzinner/_git/web-client
+	url = https://github.com/PashaBorisyk/web-client
 [submodule "account-fe"]
 	path = account-fe
-	url = https://dev.azure.com/dzinnersoft/dzinner/_git/account-fe
+	url = https://github.com/PashaBorisyk/account-fe
 [submodule "account-logistics"]
 	path = account-logistics
-	url = https://dev.azure.com/dzinnersoft/dzinner/_git/account-logistics
+	url = https://github.com/PashaBorisyk/account-logistics
 [submodule "account-lite"]
 	path = account-lite
-	url = https://dev.azure.com/dzinnersoft/dzinner/_git/account-lite
+	url = https://github.com/PashaBorisyk/account-lite
