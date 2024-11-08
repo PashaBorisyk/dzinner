@@ -1,13 +1,17 @@
-rootProject.name = "dzinner"
-include(":account")
-include(":data")
-include(":bot")
-include(":co_bot")
-include(":account-ui")
-include(":report")
-include(":ai")
-include(":solaris")
-include(":web-client")
-include(":account-fe")
-include(":web-client")
-include("account-lite")
+rootProject.name = "chefio"
+// Customer
+include(":chefio-customer-telegram-bot")
+include(":chefio-customer-frontend")
+include(":chefio-customer-backend")
+// Kitchen
+include(":chefio-kitchen-frontend-legacy")
+include(":chefio-kitchen-frontend")
+include(":chefio-kitchen-backend")
+include(":chefio-kitchen-mobile-app-backend")
+include(":chefio-kitchen-mobile-app-frontend")
+//Support
+include(":chefio-support-telegram-bot")
+// Utils
+include(":chefio-data")
+include(":chefio-ai-utils")
+include(":chefio-report-utils")

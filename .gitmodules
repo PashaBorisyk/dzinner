@@ -1,36 +1,47 @@
-[submodule "account"]
-	path = account
-	url = https://github.com/PashaBorisyk/account
-[submodule "account-ui"]
-	path = account-ui
-	url = https://github.com/PashaBorisyk/account-ui
-[submodule "data"]
-	path = data
-	url = https://github.com/PashaBorisyk/data
-[submodule "bot"]
-	path = bot
-	url = https://github.com/PashaBorisyk/bot
-[submodule "solaris"]
-	path = solaris
-	url = https://github.com/PashaBorisyk/solaris
-[submodule "report"]
-	path = report
-	url = https://github.com/PashaBorisyk/report
-[submodule "ai"]
-	path = ai
-	url = https://github.com/PashaBorisyk/ai
-[submodule "co_bot"]
-	path = co_bot
-	url = https://github.com/PashaBorisyk/co_bot
-[submodule "web-client"]
-	path = web-client
-	url = https://github.com/PashaBorisyk/web-client
-[submodule "account-fe"]
-	path = account-fe
-	url = https://github.com/PashaBorisyk/account-fe
-[submodule "account-logistics"]
-	path = account-logistics
-	url = https://github.com/PashaBorisyk/account-logistics
-[submodule "account-lite"]
-	path = account-lite
-	url = https://github.com/PashaBorisyk/account-lite
+[submodule "chefio-customer-telegram-bot"]
+ path = chefio-customer-telegram-bot
+ url = https://github.com/PashaBorisyk/chefio-customer-telegram-bot
+
+[submodule "chefio-customer-frontend"]
+ path = chefio-customer-frontend
+ url = https://github.com/PashaBorisyk/chefio-customer-frontend
+
+[submodule "chefio-customer-backend"]
+ path = chefio-customer-backend
+ url = https://github.com/PashaBorisyk/chefio-customer-backend
+
+[submodule "chefio-kitchen-frontend-legacy"]
+ path = chefio-kitchen-frontend-legacy
+ url = https://github.com/PashaBorisyk/chefio-kitchen-frontend-legacy
+
+[submodule "chefio-kitchen-frontend"]
+ path = chefio-kitchen-frontend
+ url = https://github.com/PashaBorisyk/chefio-kitchen-frontend
+
+[submodule "chefio-kitchen-backend"]
+ path = chefio-kitchen-backend
+ url = https://github.com/PashaBorisyk/chefio-kitchen-backend
+
+[submodule "chefio-kitchen-mobile-app-backend"]
+ path = chefio-kitchen-mobile-app-backend
+ url = https://github.com/PashaBorisyk/chefio-kitchen-mobile-app-backend
+
+[submodule "chefio-kitchen-mobile-app-frontend"]
+ path = chefio-kitchen-mobile-app-frontend
+ url = https://github.com/PashaBorisyk/chefio-kitchen-mobile-app-frontend
+
+[submodule "chefio-support-telegram-bot"]
+ path = chefio-support-telegram-bot
+ url = https://github.com/PashaBorisyk/chefio-support-telegram-bot
+
+[submodule "chefio-data"]
+ path = chefio-data
+ url = https://github.com/PashaBorisyk/chefio-data
+
+[submodule "chefio-ai-utils"]
+ path = chefio-ai-utils
+ url = https://github.com/PashaBorisyk/chefio-ai-utils
+
+[submodule "chefio-report-utils"]
+ path = chefio-report-utils
+ url = https://github.com/PashaBorisyk/chefio-report-utils
